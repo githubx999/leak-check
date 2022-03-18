@@ -1,5 +1,5 @@
 # 只是一个测试文件
-www.bac.com
+www.bacleak.com
 
 function test() {
 	console.log('xx')
